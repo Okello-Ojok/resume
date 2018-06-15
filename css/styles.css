@@ -8,12 +8,14 @@ nav {
 }
 .exp {
   background-color: gray;
+  color: white;
 }
 .skills {
   background-color: silver;
 }
 .contact {
   background-color: gray;
+  color: white;
 }
 h2 {
   margin: -15px 0;
