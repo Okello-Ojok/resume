@@ -1,6 +1,7 @@
 
 nav {
   background-color: blue;
+  padding: 10px;
 }
 .educ{
   background-color: silver;
@@ -9,8 +10,8 @@ nav {
   background-color: gray;
 }
 .skills {
-  background-color: green;
+  background-color: silver;
 }
 .contact {
-  background-color: skyblue;
+  background-color: gray;
 }
